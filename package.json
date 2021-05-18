@@ -1,0 +1,14 @@
+{
+  "name": "onetwotrip-api",
+  "version": "1.0.0",
+  "description": "тестовое задание ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khusainov Osim <keedice@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
